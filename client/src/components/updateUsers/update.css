@@ -1,0 +1,52 @@
+.update{
+    width: 30%;
+    background-color: #074173;
+    box-shadow: 1px 1px 8px rgba(0,0 ,0 , 0.625);
+    border-radius: 3px;
+    margin: 50px auto;
+    padding: 50px;
+}
+
+.link{
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0.5px;
+}
+
+.heading{
+    color: white;
+    font-size: 30px;
+    font-weight: 400;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.formArea .loginForm{
+    width: 100%;
+   color: white;
+   font-size: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1.5px;
+    padding: 3px 0;
+    margin-bottom: 5px;
+}
+
+.subButton{
+    background-color: #f4e5f3;
+    padding: 10px;
+    outline: none;
+    font-weight: 450;
+    margin: 15px;
+    cursor: pointer;
+    border-radius: 3px;
+    border: 0;
+    font-size: 15px;
+}
+
+.firstName , .lastName , .email, .password{
+    padding: 10px;
+    
+}
